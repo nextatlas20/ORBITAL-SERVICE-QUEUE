@@ -1,0 +1,69 @@
+{
+  "plan": "orbital-pre-shipment-service",
+  "summary": {
+    "active_kits": 4,
+    "required_cases": 8,
+    "ready_cases": 3,
+    "blocked_cases": 5,
+    "work_actions": 7
+  },
+  "work_items": [
+    {
+      "rank": 1,
+      "kit_id": "KT-311",
+      "program": "Marsh Lab",
+      "priority": "normal",
+      "case_number": 2,
+      "report_id": "IR-3112",
+      "actions": [
+        "replace"
+      ]
+    },
+    {
+      "rank": 2,
+      "kit_id": "KT-311",
+      "program": "Marsh Lab",
+      "priority": "normal",
+      "case_number": 3,
+      "report_id": null,
+      "actions": [
+        "source"
+      ]
+    },
+    {
+      "rank": 3,
+      "kit_id": "KT-310",
+      "program": "Alpine Relay",
+      "priority": "normal",
+      "case_number": 2,
+      "report_id": "IR-3102",
+      "actions": [
+        "reseal",
+        "recharge",
+        "supervisor-review"
+      ]
+    },
+    {
+      "rank": 4,
+      "kit_id": "KT-314",
+      "program": "Flood Sensor",
+      "priority": "normal",
+      "case_number": 1,
+      "report_id": "IR-3141",
+      "actions": [
+        "reseal"
+      ]
+    },
+    {
+      "rank": 5,
+      "kit_id": "KT-312",
+      "program": "Ridge Camera",
+      "priority": "high",
+      "case_number": 1,
+      "report_id": "IR-3121",
+      "actions": [
+        "recharge"
+      ]
+    }
+  ]
+}
