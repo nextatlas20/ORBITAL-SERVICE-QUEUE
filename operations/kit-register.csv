@@ -1,0 +1,11 @@
+kit_id,program,priority,required_cases,active,revision
+KT-310,Alpine Relay,high,2,yes,1
+KT-311,Marsh Lab,normal,2,yes,1
+KT-312,Ridge Camera,high,2,yes,1
+KT-313,Retired Beacon,normal,2,no,3
+KT-311,Marsh Lab,normal,3,yes,2
+KT-314,Flood Sensor,normal,1,yes,1
+KT-310,Alpine Relay,normal,2,yes,1
+KT-315,,high,1,yes,1
+KT-316,Bad Counter,normal,01,yes,1
+invalid,Discarded,normal,1,yes,9
